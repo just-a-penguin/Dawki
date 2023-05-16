@@ -1,5 +1,5 @@
 import mysql.connector
-# import keras
+
 
 # Showing only the orders that have been made using Cash on Delivery:
 
